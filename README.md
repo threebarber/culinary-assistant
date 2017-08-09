@@ -23,25 +23,25 @@ sneaker oriented discord bot
  
  
  
- Install a recent version of ruby
+ -Install a recent version of ruby
  
  
  
- Install the gems with "gem install -gem name-"
+ -Install the gems with "gem install -gem name-"
  
  
  
- Follow this guide to make the bot: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+-Follow this guide to make the bot: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
  
  
  
- Fill in the provided "config.json" file with the corresponding info
+ -Fill in the provided "config.json" file with the corresponding info
  
  
- cd to the bot directory
+ -cd to the bot directory
  
  
- run "ruby discordbot.rb"
+ -run "ruby discordbot.rb"
  
  
  
