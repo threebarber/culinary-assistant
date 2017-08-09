@@ -6,10 +6,16 @@ sneaker oriented discord bot
 
 
 -Requirements
+ 
  -Ruby2.3.3 +
+ 
  -nokogiri gem
+ 
  -discordrb gem
+ 
  -faraday gem
+ 
+ -Not windows
  
  
  
