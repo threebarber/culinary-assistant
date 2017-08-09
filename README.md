@@ -21,37 +21,57 @@ sneaker oriented discord bot
  
  **Installation**
  
+ 
+ 
  Install a recent version of ruby
  
- Install the gems with "gem install <gem name>
+ 
+ 
+ Install the gems with "gem install -gem name-"
+ 
+ 
  
  Follow this guide to make the bot: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
  
+ 
+ 
  Fill in the provided "config.json" file with the corresponding info
+ 
  
  cd to the bot directory
  
+ 
  run "ruby discordbot.rb"
+ 
+ 
  
  done
  
  
  **Usage**
  
- !checkstock <shopify item url>
+```!checkstock <shopify item url>```
+ 
+ 
  Displays shopify item stock
  
  
- !goodwill <thegoodwillout item url>
+ ```!goodwill <thegoodwillout item url>```
+ 
+ 
  Extracts goodwill size values for BD links as well as the ATC form link (soon)
  
  
- !proxy
+ ```!proxy```
+ 
+ 
  DM's the user a (usually) working proxy for testing, avoiding last minute bans, etc.
  
  
- !releases <release date> (ie: !releases aug 11)
- Displays a picture of all sneakers on solelinks matching the release date you provide as well as a link to the page and the shoe name
+```!releases <release date> (ie: !releases aug 11)```
+
+
+Displays a picture of all sneakers on solelinks matching the release date you provide as well as a link to the page and the shoe name
  
 **soon**
 
